@@ -1,0 +1,7 @@
+langchain==0.0.196
+openai==0.27.2
+streamlit==1.22.0
+python-dotenv==1.0.0
+PyPDF2==2.11.2
+python-docx==0.8.11
+faiss-cpu==1.7.2
